@@ -26,6 +26,7 @@ BAKER+EVANSREF=Evans;Map;Room;Ref.
 BAKER+EVANSRFCDR=Evans;Map;Room;Ref;CD-ROM
 BAKER+EVANSSPEC=Evans;Map;Room;Special
 BAKER+EVANSVDDSC=Evans;Map;Room;Videodisc
+BAKER+FELDATBKR=Feldberg;at Baker
 BAKER+FOLIO=Folio
 BAKER+GOVDOCS=Gov.Docs
 BAKER+HARVARDCOL=Harvard
