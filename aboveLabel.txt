@@ -235,6 +235,7 @@ RAUNER+WWHIB=White;Mts.;Broad;side
 RAUNER+WWIL=Williamson
 RAUNER+WWLW=Williams;Watson
 RAUNER+WWOO=Woodward
+RAUNER+PENNYD=Penny;Dreadfuls
 SHERMAN+COURSERSRV=Art;Reserve
 SHERMAN+FOLIO=Art;Folio
 SHERMAN+NOTCATRSRV=Art;Reserve
