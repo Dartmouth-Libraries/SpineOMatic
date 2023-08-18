@@ -31,6 +31,7 @@ BAKER+EVANSSPEC=Evans;Map;Room;Special
 BAKER+EVANSVDDSC=Evans;Map;Room;Videodisc
 BAKER+FELDATBKR=Feldberg
 BAKER+FELDJBKR=Feldberg;Journals
+BAKER+FFBPERIOD=1st Floor;Periodica
 BAKER+FOLIO=Folio
 BAKER+GOVDOCS=Gov.Docs
 BAKER+HARVARDCOL=Harvard
