@@ -124,6 +124,7 @@ MFHSL+VIDEOTAPE=Matthews;Fuller;Videotape
 RAUNER+PENNYD=Penny;Dreadfuls
 RAUNER+W1926=1926;Coll.
 RAUNER+WALU=Alumni
+RAUNER+WARM=Armed;Services;Ed.
 RAUNER+WBIN=Bindings
 RAUNER+WBRO=Brooke
 RAUNER+WBRY=Bryant
