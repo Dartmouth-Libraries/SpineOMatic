@@ -108,6 +108,7 @@ LCSF+Dana=LCSF
 LCSF+Feldberg=LCSF
 LCSF+LCSF=LCSF
 LCSF+MFHSL=LCSF
+LCSF+ProcessRm=LCSF;Process;Room
 MFHSL+CDROM=Matthews;Fuller;CD-ROM
 MFHSL+CHCD=Matthews;Fuller;Consumer;Health;Compact;Disc
 MFHSL+CHDVD=Matthews;Fuller;Consumer;Health;DVD
